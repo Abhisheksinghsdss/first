@@ -1,0 +1,16 @@
+#--------------------------#
+# Qualcentric Default Files    #
+#--------------------------#
+
+/.htaccess
+/404.php
+/robots.txt
+/sitemap.xml
+
+/admin/*
+
+/form/*
+
+/js/*
+
+/css/*
